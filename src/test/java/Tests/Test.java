@@ -51,7 +51,7 @@ public class Test {
 
         //logger.info("Validation");
         String actualTitle = driver.getTitle();
-        String expectedTitle = "Swag Labs";
+        String expectedTitle = "Swag Labss";
 
         Assert.assertEquals( expectedTitle, actualTitle);
 
